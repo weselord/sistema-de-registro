@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```nom install react```
+
+Actualizando en git
